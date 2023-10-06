@@ -2,7 +2,8 @@
 
 **СookRecipes** - это приложение для поиска рецептов по категориям и по ключевым словам с возможностью просмотра ингридиентов и инструкций, а также сохранения любимых рецептов
 * Сохранение избранных рецептов в базе данных с помощью CoreData
-* Архитектура - VIPER
+* Архитектура - VIPER+Assembler
+* Custom Label Builder
 * Вёрстка - SnapKit
 * Дизайн - [Figma](https://www.figma.com/file/KdLuXoOBc2Ey2TQmfuPouu/Food-Recipe-App-(Community)-(Copy)?type=design&node-id=0-1&mode=design)
 * API - [TastyAPI](https://rapidapi.com/apidojo/api/tasty)
